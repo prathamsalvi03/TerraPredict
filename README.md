@@ -9,3 +9,7 @@ Method :
 Semantic Segmentation is used to perform the above two tasks .
 
 
+
+
+https://github.com/user-attachments/assets/9f40cba6-982c-45e8-bbd5-da14c9de83d0
+
