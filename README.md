@@ -11,5 +11,13 @@ Semantic Segmentation is used to perform the above two tasks .
 
 
 
-https://github.com/user-attachments/assets/9f40cba6-982c-45e8-bbd5-da14c9de83d0
+
+
+https://github.com/user-attachments/assets/afee5b92-7c3d-4436-9a30-dec9371bf502
+
+
+
+https://github.com/user-attachments/assets/bf0e4733-eddb-444e-b9f8-584c804bd5c5
+
+
 
